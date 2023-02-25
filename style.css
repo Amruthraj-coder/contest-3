@@ -1,0 +1,35 @@
+
+img{
+    height: 300px;
+}
+.navbar{
+height:50px;
+background-color: lightgray;
+}
+.navchild{
+    margin-right: 15px;
+    
+    
+}
+.navchild a{
+color: black;
+}
+.navchild a:link{
+    text-decoration: none;
+    
+}
+.btn1:click{
+    background-color: black;
+    opacity: 0.5;
+}
+#navbarTogglerDemo02{
+    z-index: 0 !important;
+}
+.main  .ggg{
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.xx{
+    margin-bottom: 30px;
+    margin-top:30px;
+}
